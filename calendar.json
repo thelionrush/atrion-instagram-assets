@@ -1,0 +1,12 @@
+[
+  {
+    "id": "exemplo-remover",
+    "publicar_em": "2026-01-01T09:00:00-03:00",
+    "tipo": "carrossel",
+    "midia": [
+      "https://raw.githubusercontent.com/thelionrush/atrion-instagram-assets/main/media/exemplo/slide-1.png"
+    ],
+    "legenda": "Entrada de exemplo. status 'rascunho' nunca publica. Pode apagar.",
+    "status": "rascunho"
+  }
+]
